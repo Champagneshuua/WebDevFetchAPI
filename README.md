@@ -1,1 +1,3 @@
-Joshua Jonathan S. Frias
+Joshua Jonathan S. Frias 
+Final Individual Acitvity
+FetchAPI
